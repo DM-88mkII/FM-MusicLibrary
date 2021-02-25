@@ -1,0 +1,8 @@
+#driver mucom88E
+
+# *0{l4 m60c m56c+ m53d m50d+ m47e m45f m42f+ m40g m38g+ m35a m33a+ m32b > m30c m28c+ m27d m25d+ m24e m22f m21f+ m20g m19g+ m18a m17a+ m16b <}
+# *9{@0q2 s10*0 s8*0}
+
+D t150
+D o3*9
+E o1*9

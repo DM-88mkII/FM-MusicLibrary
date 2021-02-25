@@ -1,0 +1,10 @@
+#driver mucom88E
+
+# *0{m0c m1c m2c m3c m4c m5c m6c m7c m8c m9c}
+# *1{m10c m11c m12c m13c m14c m15c m16c m17c m18c m19c}
+# *2{m20c m21c m22c m23c m24c m25c m26c m27c m28c m29c}
+# *3{m30c m31c m32c m33c m34c m35c m36c m37c m38c m39c}
+# *8{*0*1*2*3}
+# *9{s8*8 s10*8}
+
+D t150 @0o3l64P2 w31*9 w20*9 w10*9 w0*9
