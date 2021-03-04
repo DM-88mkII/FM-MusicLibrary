@@ -11,18 +11,18 @@
 # *1{ySL,2,$16 ySL,4,$16}
 
 ;Chord
-# *2{yDM,1,$3E yDM,2,$3E yDM,3,$7F yDM,4,$7F}; K-10D9};c+
-# *3{yDM,1,$08 yDM,2,$08 yDM,3,$59 yDM,4,$59}; K0D0}  ;d
-# *4{yDM,1,$3A yDM,2,$3A yDM,3,$7C yDM,4,$7C}; K-4D4} ;d+
-# *5{yDM,1,$78 yDM,2,$78 yDM,3,$3A yDM,4,$3A}; K0D2}  ;e
-# *6{yDM,1,$66 yDM,2,$66 yDM,3,$08 yDM,4,$08}; K5D0}  ;f
-# *7{yDM,1,$7A yDM,2,$7A yDM,3,$3E yDM,4,$3E}; K-4D13};f+
-# *8{yDM,1,$08 yDM,2,$08 yDM,3,$5C yDM,4,$5C}; K0D0}  ;g
-# *9{yDM,1,$35 yDM,2,$35 yDM,3,$78 yDM,4,$78}; K8D5}  ;g+
-# *10{yDM,1,$76 yDM,2,$76 yDM,3,$3A yDM,4,$3A}; K5D3} ;a
-# *11{yDM,1,$35 yDM,2,$35 yDM,3,$79 yDM,4,$79}; K8D2} ;a+
-# *12{yDM,1,$78 yDM,2,$78 yDM,3,$3F yDM,4,$3F}; K0D2} ;b
-# *13{yDM,1,$04 yDM,2,$04 yDM,3,$08 yDM,4,$08}; K12D0};>c
+# *2{yDM,1,$3E yDM,2,$3E yDM,3,$7F yDM,4,$7F}; K-10D9 c+
+# *3{yDM,1,$08 yDM,2,$08 yDM,3,$59 yDM,4,$59}; K0D0   d
+# *4{yDM,1,$3A yDM,2,$3A yDM,3,$7C yDM,4,$7C}; K-4D4  d+
+# *5{yDM,1,$78 yDM,2,$78 yDM,3,$3A yDM,4,$3A}; K0D2   e
+# *6{yDM,1,$66 yDM,2,$66 yDM,3,$08 yDM,4,$08}; K5D0   f
+# *7{yDM,1,$7A yDM,2,$7A yDM,3,$3E yDM,4,$3E}; K-4D13 f+
+# *8{yDM,1,$08 yDM,2,$08 yDM,3,$5C yDM,4,$5C}; K0D0   g
+# *9{yDM,1,$35 yDM,2,$35 yDM,3,$78 yDM,4,$78}; K8D5   g+
+# *10{yDM,1,$76 yDM,2,$76 yDM,3,$3A yDM,4,$3A}; K5D3  a
+# *11{yDM,1,$35 yDM,2,$35 yDM,3,$79 yDM,4,$79}; K8D2  a+
+# *12{yDM,1,$78 yDM,2,$78 yDM,3,$3F yDM,4,$3F}; K0D2  b
+# *13{yDM,1,$04 yDM,2,$04 yDM,3,$08 yDM,4,$08}; K12D0 >c
 
 ;KeyOn
 # *20{y$28,$00};ch0 ....
